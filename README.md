@@ -1,2 +1,2 @@
 # gaming-campus-page
-##Gaming Campus is a landing page for a gaming school
+Gaming Campus is a landing page for a gaming school
